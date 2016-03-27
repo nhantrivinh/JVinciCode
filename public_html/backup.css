@@ -1,0 +1,60 @@
+.navbar {
+    min-height: 50px;
+    border: none;
+    background-color:#961B1B;
+    
+    background-image: none;
+    background-repeat: no-repeat;
+
+}
+
+.navbar-nav > li > a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 50px;
+    font-size: 1em;
+}
+
+.navbar-brand{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 50px;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-brand {
+    color: #FFFFFF;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color:#FFFFFF;
+
+}
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #FFFFFF;
+    background-color: #5E0F0F;
+
+}
+
+.navbar-default .navbar-nav > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    background:#5E0F0F !important; 
+    color:#FFFFFF !important;
+}
+
+.dropdown-menu li > a:hover, 
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover {
+    background:#5E0F0F; 
+    color:#FFFFFF;
+}
+
+/* Rose Red: #961B1B 
+Dark Rose Red: ;
